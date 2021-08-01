@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sujay-the-coder
-- 👀 I’m interested in Python(especially django, machine learing)
+- 👀 I’m interested in Python(especially django, machine learing), and in Web Development using HTML, CSS and JS.
 - 🌱 I’m currently learning on Youtube.
 
 
